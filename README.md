@@ -108,7 +108,7 @@
   <a href="https://www.youtube.com/channel/UCtgTRDzqbaRtpyNzy1fu1vA" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Link">
   </a>
-  <a href="https://github.com/C7-CodeWithMe" target="_blank" style="text-decoration: none;">
+  <a href="  https://github.com/Pythoniacs-Codebook" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Link">
   </a>
   <a href="https://wa.me/message/V33NEXMUPK3CJ1" target="_blank" style="text-decoration: none;">
@@ -117,9 +117,15 @@
   <a href="mailto:code2with2me@gmail.com" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Link">
   </a>
-  <a href="https://web.facebook.com/people/C7/61566373615325/" target="_blank" style="text-decoration: none;">
+  <a href="https://web.facebook.com/profile.php?id=61566373615325" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Link">
   </a>
+  <a href="https://www.tiktok.com/@pythoniacs_codebook?is_from_webapp=1&sender_device=pc" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok Link">
+</a>
+  <a href="https://web.facebook.com/share/g/1CG8DrL2Ed/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Facebook Group-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Group Link">
+</a>
 </p>
 
 ---
